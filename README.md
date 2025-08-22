@@ -1,4 +1,4 @@
-### This repository hosts downloadable data for the Minneapolis Fed's [Mapping Native American Financial Institutions](https://www.minneapolisfed.org/indiancountry/resources/mapping-native-banks) data tool. 
+### This repository hosts downloadable data for the Minneapolis Fed's [Mapping Native American Financial Institutions](https://www.minneapolisfed.org/indiancountry/resources/mapping-native-banks) data tool. Data come from public sources.
 
 ### The data tool is usually updated once each year. Current and past versions of data are free for public download.
 
